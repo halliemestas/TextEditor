@@ -16,21 +16,27 @@ THEN I find that my application should start up the backend and serve the client
 
 WHEN I run the text editor application from my terminal
 THEN I find that my JavaScript files have been bundled using webpack
+<!-- Done -->
 
 WHEN I run my webpack plugins
 THEN I find that I have a generated HTML file, service worker, and a manifest file
+<!-- Done -->
 
 WHEN I use next-gen JavaScript in my application
 THEN I find that the text editor still functions in the browser without errors
+<!-- Done -->
 
 WHEN I open the text editor
 THEN I find that IndexedDB has immediately created a database storage
+<!-- Done -->
 
 WHEN I enter content and subsequently click off of the DOM window
 THEN I find that the content in the text editor has been saved with IndexedDB
+<!-- Done -->
 
 WHEN I reopen the text editor after closing it
 THEN I find that the content in the text editor has been retrieved from our IndexedDB
+<!-- Done -->
 
 WHEN I click on the Install button
 THEN I download my web application as an icon on my desktop
@@ -58,4 +64,4 @@ SO THAT I can reliably retrieve them for later use
 
 ## Live Link
 
-Coming Soon!
+https://github.com/halliemestas/TextEditor
