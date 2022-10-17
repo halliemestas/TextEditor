@@ -58,4 +58,4 @@ SO THAT I can reliably retrieve them for later use
 
 ## Live Link
 
-https://github.com/halliemestas/TextEditor
+https://text-editor-10172022.herokuapp.com/
